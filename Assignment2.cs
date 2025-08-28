@@ -88,7 +88,7 @@
 //    }
 //}
 
-//class Program
+//class Assignment2
 //{
 //    static void Main(string[] args)
 //    {
@@ -168,7 +168,7 @@
 //    }
 //}
 
-//class Program
+//class Assignment2
 //{
 //    static void Main(string[] args)
 //    {
@@ -224,7 +224,7 @@
 //    }
 //}
 
-//class Program
+//class Assignment2
 //{
 //    static void Main(string[] args)
 //    {
@@ -281,7 +281,7 @@
 //    }
 //}
 
-//class Program
+//class Assignment2
 //{
 //    static void Main(string[] args)
 //    {
@@ -361,7 +361,7 @@
 //    }
 //}
 
-//class Program
+//class Assignment2
 //{
 //    static void Main(string[] args)
 //    {
@@ -429,7 +429,7 @@
 //    }
 //}
 
-//class Program
+//class Assignment2
 //{
 //    static void Main(string[] args)
 //    {
@@ -552,7 +552,7 @@ class Library
     }
 }
 
-class Program
+class Assignment2
 {
     static void Main(string[] args)
     {
@@ -576,4 +576,5 @@ class Program
         // Display Available Books After Lending
         library.DisplayAvailableBooks();
     }
+
 }
